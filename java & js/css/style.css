@@ -1,0 +1,147 @@
+.panel{
+	cursor: pointer;
+}
+.content{
+	display: none;
+}
+.box{
+	width: 412px;
+    height: 80px;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    background-color: #000000;
+    cursor: #ffffff;
+}
+.block{
+	border: 3px solid #bca;
+	width: 4%;
+}
+.stop-color{
+    background: yellow;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+    transition: .3s;
+}
+.stop-color:hover{
+    background: #ccc;
+}
+.span{
+    color: red;
+}
+.sto-clor{
+    background: yellow;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+}
+.sto-clor:hover{
+    background: #ccc;
+}
+.sn{
+	color: red;
+}
+.background{
+	background-color: yellow;
+    border: 3px red solid;
+}
+  .hilite {
+    border-color: red;
+  }
+  #results {
+    display: block;
+    color: red;
+  }
+  .border{
+  	border: 2px solid red;
+
+  }
+  .p, .span, em, a, b, button {
+  	border: 1px solid transparent;
+  }
+  .p {
+    margin: 10px;
+  }
+  .span {
+    color: blue;
+  }
+  input {
+    width: 100px;
+  }
+
+.color-box{
+	margin: 3px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+    background: green;
+    display: none;
+}
+.color-box, .newcolor {
+    background: blue;
+  }
+
+.first{
+	width: 50px;
+	height: 50px;
+	background-color: red;
+}
+.second{
+	width: 50px;
+	height: 50px;
+	background-color: yellow;
+}
+.theone{
+    color: red;
+    background: yellow;
+}
+.bb-bb{
+	width: 50px;
+    height: 50px;
+    margin: 10px;
+    float: left;
+    border: 2px blue solid;
+    padding: 2px;
+}
+.font-size{
+    font-size: 14px;
+  }
+.bb-p{
+	clear: left;
+    margin: 10px;
+}
+.div{
+	margin: 3px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 0px;
+    top: 60px;
+    background: green;
+    display: none;
+}
+.div:hover{
+	background-color: blue;
+}
+
+.fiaoh{
+    color: red;
+    display: none;
+  }
+.btn-primary{
+	background-color: green;
+	color: white;
+}
+.hellop{
+	    width: 50px;
+    height: 40px;
+    margin: 5px;
+    border: 3px outset green;
+    float: left;
+}
+.hellop:hover{
+	background-color: yellow;
+}
